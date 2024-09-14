@@ -1,7 +1,4 @@
 *************************************************************************
-# Modelo  para predicción de deterioro en tramos de tubería
+# Análisis de caudales
 
-### Version alterna 02
-
-Ensayos con MLP y XGBOOST
 *************************************************************************
